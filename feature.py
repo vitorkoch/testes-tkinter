@@ -88,5 +88,6 @@ def feature_window():
 
     feature_window.mainloop()
 
+
 if __name__ == "__main__":
     feature_window()
