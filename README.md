@@ -1,6 +1,6 @@
 # IFPA Tkinter
 
-Minha área de testes do modulo tkinter do python  
+Minha área de testes do módulo Tkinter do Python
 
 ---
 
