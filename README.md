@@ -1,8 +1,9 @@
-# IFPA Tkinter
+# Testes Tkinter
 
-Minha área de testes do módulo Tkinter do Python
+Meu primeiro programa, feito em Python, usando o módulo tkinter, no qual fiz uma calculadora simples e algumas funcionalidades usando API's 
 
 ---
 
-[![Run on Repl.it](https://repl.it/badge/github/vitorkoch/IFPA-tkinter)](https://repl.it/github/vitorkoch/IFPA-tkinter)  
-Clique para baixar meu projeto no site Repl.it
+#### Requisitos para rodar:
+1. Python
+2. Python-tkinter (Apenas caso dê erro ao executar)
